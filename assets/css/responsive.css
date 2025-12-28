@@ -180,10 +180,7 @@
 @media screen and (max-width: 767px) { 
 	html {
 		overflow-x: hidden;
-	}
-	.slider-bg-1, .slider-bg-2, .slider-bg-3, .slider-bg-4, .slider-bg-5 {
-		height: 65vh;
-	}
+	}	
 	.search-course-section {
 		padding: 45px 0px 40px 0px; 
 	}
