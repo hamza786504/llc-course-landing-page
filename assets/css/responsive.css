@@ -566,17 +566,17 @@
 	}
 	#slider-item .genius-btn {
 		border: 2px solid #17d0cf;
-		width: 155px;
 		margin: 0 auto;
 		margin-top: 20px;
 		height: 40px;
+		font-size: 14px;
 		line-height: 40px;
 	}
 	#slider-item .secoud-title {
 		font-size: 35px;
 	}
 	.slider-text {
-		padding: 0px 20px;
+		padding: 0px 5px;
 	}
 	#slider-item .third-slide {
 		font-size: 30px;
